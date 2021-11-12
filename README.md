@@ -3,7 +3,7 @@ Using TensorFlow to create a model to predict bitcoin prices based off previous 
 
 exemplar CSV is included to demonstrate, containing price data for 1 year
 
-required modules:
+required libraries:
 * numpy
 * matplotlib
 * pandas
